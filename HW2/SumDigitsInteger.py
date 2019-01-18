@@ -10,4 +10,5 @@ print("The sum of digits in the number is", x+x1+x2+x3)
 #resultado = 0
 #for _ in range (3):
     #resultado = resultado + temp %10
+    #temp = temp // 10
 #print (resultado)
