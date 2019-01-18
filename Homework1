@@ -1,0 +1,28 @@
+print ("1.1")
+print("""
+      Wellcome to Python
+      Wellcome to Computer Science
+      Programming is Fun
+      """)
+
+print ("1.2")
+print ("Wellcome to Phyton. " * 5)
+
+
+print ("1.3")
+
+
+print ("1.4")
+
+
+print ("1.5")
+
+
+print ("1.6")
+
+
+print ("1.7")
+
+
+print ("1.12")
+import.turtle
